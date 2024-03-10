@@ -4,70 +4,109 @@
     "image": "https://a0.muscache.com/im/pictures/4f70b681-a792-4530-8c52-f2a8d262942d.jpg",
     "dateRange": "Jan 9, 2024 - Jan 14, 2024",
     "price": 456,
-    "category": "Beach"
+    "category": "Beach",
+    "guests": 2,
+    "bedrooms": 1,
+    "baths": 1,
+    "aboutThisSpace": "A tranquil beachfront retreat in the heart of Sidemen, Bali, offering breathtaking views and serene ambiance. Perfect for couples or solo travelers seeking relaxation and rejuvenation amidst nature's beauty. Includes access to exclusive amenities such as a private beach, infinity pool, and spa facilities."
   },
   {
     "location": "Abiansemal, Bali",
     "image": "https://a0.muscache.com/im/pictures/e25a9b25-fa98-4160-bfd1-039287bf38b6.jpg",
     "dateRange": "Jan 9, 2024 - Jan 14, 2024",
     "price": 513,
-    "category": "Windmills"
+    "category": "Windmills",
+    "guests": 4,
+    "bedrooms": 2,
+    "baths": 2,
+    "aboutThisSpace": "A charming countryside villa nestled amidst lush greenery and picturesque landscapes in Abiansemal, Bali. Ideal for families or small groups, this spacious retreat offers modern amenities and cozy interiors. Enjoy leisurely strolls in the surrounding rice paddies or relax by the outdoor pool while soaking in the tranquility of rural Bali."
   },
   {
     "location": "Kecamatan Ubud, Bali",
     "image": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-46761225/original/11058c0d-fac8-4035-8f16-8b3abe7441cd.jpeg",
     "dateRange": "Jan 9, 2024 - Jan 14, 2024",
     "price": 456,
-    "category": "Modern"
+    "category": "Modern",
+    "guests": 6,
+    "bedrooms": 3,
+    "baths": 2,
+    "aboutThisSpace": "A contemporary villa nestled in the heart of Kecamatan Ubud, Bali, offering luxurious amenities and stunning views of the surrounding jungle landscape. This spacious accommodation is perfect for families or groups seeking comfort and style during their stay in Bali. Enjoy the convenience of modern facilities, including a fully equipped kitchen, outdoor dining area, and private swimming pool."
   },
   {
-    "location": "Koh samui, Thailand",
+    "location": "Koh Samui, Thailand",
     "image": "https://a0.muscache.com/im/pictures/miso/Hosting-820950793239599563/original/d5c1f686-f06a-4b65-9f55-32e19dc0b23f.jpeg",
     "dateRange": "Jan 9, 2024 - Jan 14, 2024",
     "price": 513,
-    "category": "Countryside"
+    "category": "Countryside",
+    "guests": 4,
+    "bedrooms": 2,
+    "baths": 2,
+    "aboutThisSpace": "Escape to the serene countryside of Koh Samui, Thailand, and experience the ultimate relaxation in this charming villa retreat. Nestled amidst lush greenery and tropical gardens, this spacious accommodation offers tranquility and comfort for families or small groups. Enjoy leisurely days lounging by the private pool or exploring the nearby beaches and attractions."
   },
-
   {
     "location": "Surat Thani, Thailand",
     "image": "https://a0.muscache.com/im/pictures/miso/Hosting-820954888871612167/original/f37e01a9-cb1a-446d-be7e-c1d62d1f1c23.jpeg",
     "dateRange": "Jan 9, 2024 - Jan 14, 2024",
     "price": 456,
-    "category": "Windmills"
+    "category": "Windmills",
+    "guests": 2,
+    "bedrooms": 1,
+    "baths": 1,
+    "aboutThisSpace": "Experience the charm of Surat Thani, Thailand, in this cozy windmill-inspired cottage. Perfect for a romantic getaway or solo retreat, this unique accommodation offers comfort and tranquility amidst picturesque surroundings. Enjoy stunning views of the countryside from the comfort of your private terrace or take a leisurely stroll through the nearby fields and forests."
   },
   {
     "location": "Khao Lak, Thailand",
     "image": "https://a0.muscache.com/im/pictures/miso/Hosting-826025597172937112/original/d6bbe2ca-9337-4a7e-a5d3-ca8fe72821db.jpeg?im_w=1200",
     "dateRange": "Jan 9, 2024 - Jan 14, 2024",
     "price": 345,
-    "category": "Windmills"
+    "category": "Windmills",
+    "guests": 2,
+    "bedrooms": 1,
+    "baths": 1,
+    "aboutThisSpace": "Escape to the tranquil countryside of Khao Lak, Thailand, and unwind in this charming windmill cottage. Perfect for couples seeking a romantic retreat, this cozy accommodation offers comfort and seclusion amidst lush greenery and serene surroundings. Enjoy leisurely days lounging on the private terrace or exploring the nearby beaches and attractions."
   },
   {
     "location": "Kecamatan Selemadeg, Bali",
     "image": "https://a0.muscache.com/im/pictures/miso/Hosting-807995199727408777/original/3ba641e8-f9be-41cb-b834-aba9695726fa.jpeg",
     "dateRange": "Jan 9, 2024 - Jan 14, 2024",
     "price": 513,
-    "category": "Beach"
+    "category": "Beach",
+    "guests": 4,
+    "bedrooms": 2,
+    "baths": 2,
+    "aboutThisSpace": "Indulge in the beauty of Bali's coastline with a stay at this stunning beachfront villa in Kecamatan Selemadeg. Perfect for families or groups, this spacious accommodation offers breathtaking ocean views and direct access to the beach. Enjoy luxurious amenities, including a private infinity pool, outdoor dining area, and comfortable lounging spaces, for a memorable seaside retreat."
   },
   {
     "location": "Khao Lak, Thailand",
     "image": "https://a0.muscache.com/im/pictures/miso/Hosting-826732383054098647/original/457337ee-af64-462f-90d0-b9fa1ce98a73.jpeg",
     "dateRange": "Jan 9, 2024 - Jan 14, 2024",
     "price": 213,
-    "category": "Windmills"
+    "category": "Windmills",
+    "guests": 2,
+    "bedrooms": 1,
+    "baths": 1,
+    "aboutThisSpace": "Discover the charm of Khao Lak, Thailand, with a stay in this cozy windmill-inspired cottage. Ideal for couples or solo travelers, this unique accommodation offers comfort and tranquility amidst lush greenery and scenic surroundings. Relax on the private terrace with a cup of coffee or explore the nearby beaches and attractions for a memorable vacation experience."
   },
   {
     "location": "Khao Lak, Thailand",
     "image": "https://a0.muscache.com/im/pictures/miso/Hosting-826726918494647682/original/d1586407-7873-4c15-91e2-61ab713d2aca.jpeg",
     "dateRange": "Jan 9, 2024 - Jan 14, 2024",
     "price": 213,
-    "category": "Windmills"
+    "category": "Windmills",
+    "guests": 2,
+    "bedrooms": 1,
+    "baths": 1,
+    "aboutThisSpace": "Escape to the serene countryside of Khao Lak, Thailand, and unwind in this charming windmill-inspired cottage. Perfect for couples seeking a romantic retreat, this cozy accommodation offers comfort and seclusion amidst lush greenery and scenic surroundings. Enjoy leisurely days lounging on the private terrace or exploring the nearby beaches and attractions."
   },
   {
     "location": "Kecamatan Ubud, Bali",
     "image": "https://a0.muscache.com/im/pictures/miso/Hosting-812919482265584093/original/c60bc2f2-7d16-4f7d-acf2-44c2f855fb81.jpeg",
     "dateRange": "Jan 9, 2024 - Jan 14, 2024",
     "price": 213,
-    "category": "Pools"
+    "category": "Pools",
+    "guests": 2,
+    "bedrooms": 1,
+    "baths": 1,
+    "aboutThisSpace": "Experience luxury and relaxation in the heart of Kecamatan Ubud, Bali, with a stay at this stylish villa retreat. Perfect for couples or solo travelers, this modern accommodation offers a serene oasis amidst lush tropical gardens. Relax by the private pool, unwind in the outdoor lounge area, or explore the vibrant culture and natural beauty of Ubud during your stay."
   }
 ]
