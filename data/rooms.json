@@ -3,6 +3,7 @@
       "id": 1,
       "location": "Sidemen, Bali",
       "image": "https://a0.muscache.com/im/pictures/4f70b681-a792-4530-8c52-f2a8d262942d.jpg",
+        "hostImage":"https://images.unsplash.com/flagged/photo-1570612861542-284f4c12e75f?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       "dateRange": "Jan 9, 2024 - Jan 14, 2024",
       "price": 456,
       "category": "Beach",
@@ -39,6 +40,7 @@
       "id": 2,
       "location": "Abiansemal, Bali",
       "image": "https://a0.muscache.com/im/pictures/e25a9b25-fa98-4160-bfd1-039287bf38b6.jpg",
+           "hostImage":"https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "dateRange": "Jan 9, 2024 - Jan 14, 2024",
       "price": 513,
       "category": "Windmills",
@@ -69,6 +71,7 @@
       "id": 3,
       "location": "Kecamatan Ubud, Bali",
       "image": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-46761225/original/11058c0d-fac8-4035-8f16-8b3abe7441cd.jpeg",
+        "hostImage":"https://images.unsplash.com/photo-1552058544-f2b08422138a?q=80&w=1398&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "dateRange": "Jan 9, 2024 - Jan 14, 2024",
       "price": 456,
       "category": "Modern",
@@ -98,6 +101,7 @@
       "id": 4,
       "location": "Koh Samui, Thailand",
       "image": "https://a0.muscache.com/im/pictures/miso/Hosting-820950793239599563/original/d5c1f686-f06a-4b65-9f55-32e19dc0b23f.jpeg",
+        "hostImage":"https://plus.unsplash.com/premium_photo-1674777843203-da3ebb9fbca0?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "dateRange": "Jan 9, 2024 - Jan 14, 2024",
       "price": 513,
       "category": "Countryside",
@@ -127,6 +131,7 @@
       "id": 5,
       "location": "Surat Thani, Thailand",
       "image": "https://a0.muscache.com/im/pictures/miso/Hosting-820954888871612167/original/f37e01a9-cb1a-446d-be7e-c1d62d1f1c23.jpeg",
+         "hostImage":"https://images.unsplash.com/photo-1491349174775-aaafddd81942?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "dateRange": "Jan 9, 2024 - Jan 14, 2024",
       "price": 456,
       "category": "Windmills",
@@ -157,6 +162,7 @@
       "id": 6,
       "location": "Khao Lak, Thailand",
       "image": "https://a0.muscache.com/im/pictures/4f70b681-a792-4530-8c52-f2a8d262942d.jpg",
+          "hostImage":"https://images.unsplash.com/photo-1504593811423-6dd665756598?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "dateRange": "Jan 9, 2024 - Jan 14, 2024",
       "price": 345,
       "category": "Windmills",
@@ -187,6 +193,7 @@
       "id": 7,
       "location": "Kecamatan Selemadeg, Bali",
       "image": "https://a0.muscache.com/im/pictures/miso/Hosting-807995199727408777/original/3ba641e8-f9be-41cb-b834-aba9695726fa.jpeg",
+          "hostImage":"https://images.unsplash.com/photo-1580489944761-15a19d654956?q=80&w=1522&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "dateRange": "Jan 9, 2024 - Jan 14, 2024",
       "price": 513,
       "category": "Beach",
@@ -217,18 +224,38 @@
       "id": 8,
       "location": "Khao Lak, Thailand",
       "image": "https://a0.muscache.com/im/pictures/miso/Hosting-826732383054098647/original/457337ee-af64-462f-90d0-b9fa1ce98a73.jpeg",
+          "hostImage":"https://images.unsplash.com/photo-1593104547489-5cfb3839a3b5?q=80&w=1453&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "dateRange": "Jan 9, 2024 - Jan 14, 2024",
       "price": 213,
       "category": "Windmills",
       "guests": 2,
       "bedrooms": 1,
       "baths": 1,
+         "availableFrom": {
+        "$date": "2024-11-15T00:00:00.000Z"
+      },
+      "availableTo": {
+        "$date": "2025-02-28T00:00:00.000Z"
+      },
+      "contactInfo": {
+        "name": "Ethan Clark",
+        "email": "ethanclark@example.com",
+        "phone": "+1666999888"
+      },
+      "amenities": [
+        "Wi-Fi",
+        "BBQ Grill",
+        "Patio",
+        "Pool Table",
+        "Lake View"
+      ],
       "aboutThisSpace": "Discover the charm of Khao Lak, Thailand, with a stay in this cozy windmill-inspired cottage. Ideal for couples or solo travelers, this unique accommodation offers comfort and tranquility amidst lush greenery and scenic surroundings. Relax on the private terrace with a cup of coffee or explore the nearby beaches and attractions for a memorable vacation experience."
     },
     {
       "id": 9,
       "location": "Khao Lak, Thailand",
       "image": "https://a0.muscache.com/im/pictures/4f70b681-a792-4530-8c52-f2a8d262942d.jpg",
+        "hostImage":"https://images.unsplash.com/photo-1593104547489-5cfb3839a3b5?q=80&w=1453&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "dateRange": "Jan 9, 2024 - Jan 14, 2024",
       "price": 213,
       "category": "Windmills",
@@ -259,6 +286,7 @@
       "id": 10,
       "location": "Kecamatan Ubud, Bali",
       "image": "https://a0.muscache.com/im/pictures/miso/Hosting-812919482265584093/original/c60bc2f2-7d16-4f7d-acf2-44c2f855fb81.jpeg",
+         "hostImage":"https://images.unsplash.com/photo-1567532939604-b6b5b0db2604?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzl8fHBlcnNvbnxlbnwwfHwwfHx8MA%3D%3D",
       "dateRange": "Jan 9, 2024 - Jan 14, 2024",
       "price": 213,
       "category": "Pools",
